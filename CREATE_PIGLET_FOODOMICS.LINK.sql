@@ -1,4 +1,4 @@
-####Creates PIGLET_FOODOMICS Table Structure
+####Creates
 
 use borum_practice;
 create table piglet_foodomics(
